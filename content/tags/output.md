@@ -4,7 +4,7 @@ next = "/tags/p"
 prev = "/tags/option"
 title = "output"
 toc = true
-weight = 5
+weight = 67
 
 +++
 

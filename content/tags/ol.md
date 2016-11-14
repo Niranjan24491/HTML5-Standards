@@ -4,7 +4,7 @@ next = "/tags/option"
 prev = "/tags/nav"
 title = "ol"
 toc = true
-weight = 5
+weight = 65
 
 +++
 

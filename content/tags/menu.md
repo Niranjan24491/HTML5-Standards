@@ -4,7 +4,7 @@ next = "/tags/menuitem"
 prev = "/tags/mark"
 title = "menu"
 toc = true
-weight = 5
+weight = 50
 
 +++
 

@@ -4,7 +4,7 @@ next = "/tags/main"
 prev = "/tags/italic"
 title = "kbd"
 toc = true
-weight = 5
+weight = 47
 
 +++
 

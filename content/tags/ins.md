@@ -4,7 +4,7 @@ next = "/tags/italic"
 prev = "/tags/input"
 title = "ins"
 toc = true
-weight = 5
+weight = 45
 
 +++
 

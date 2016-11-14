@@ -4,7 +4,7 @@ next = "/tags/ins"
 prev = "/tags/img"
 title = "input"
 toc = true
-weight = 5
+weight = 44
 
 +++
 
