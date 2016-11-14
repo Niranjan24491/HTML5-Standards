@@ -20,9 +20,15 @@ This tag is needed to represent the main content of the document and users can e
   <li>The mark tag also supports the Event Attributes in HTML.</li>
 </ol>
 
+<h3>Disadvantages of this tag</h3>
+<ol>
+  <li>NA.</li>
+</ol>
+
+
 <h3>Working Example</h3>
 
-	<p>I should point out that the value only <mark>increased</mark> because I kept pumping more money in!</p>
+	  	<p>I should point out that the value only <mark>increased</mark> because I kept pumping more money in!</p>
 
 <h3>References</h3>
 http://www.quackit.com/html_5/tags/html_mark_tag.cfm

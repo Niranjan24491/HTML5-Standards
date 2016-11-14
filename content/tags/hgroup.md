@@ -9,7 +9,7 @@ weight = 5
 +++
 
 <h3>Standard Definition</h3>
-This tag is typically used to group a set of one or more h1-h6 elements.It’s all about the document outline. When grouping headings in an hgroup element, the outline algorithm will mask all but the highest level heading in the group from the resulting document outline.
+This tag is typically used to group a set of one or more h1-h6 elements.Itâ€™s all about the document outline. When grouping headings in an hgroup element, the outline algorithm will mask all but the highest level heading in the group from the resulting document outline.
 
 
 <h3>Need for this tag</h3>

@@ -21,20 +21,24 @@ This tag is needed to represent the main content of the document and users can e
   <li>The main tag also supports the Event Attributes in HTML.</li>
 </ol>
 
+<h3>Disadvantages of this tag</h3>
+<ol>
+  <li>NA.</li>
+</ol>
+
+
 <h3>Working Example</h3>
 
 	<main>
      	<h1>Apples</h1>
      	<p>The apple is the pomaceous fruit of the apple tree.</p>
-  
+
      	<article>
        	<h2>Red Delicious</h2>
        	<p>These bright red apples are the most common found in many supermarkets.</p>
     	</article>
-   
- 	</main>
+
+   	</main>
 
 <h3>References</h3>
 https://developer.mozilla.org/en/docs/Web/HTML/Element/main
-
-
