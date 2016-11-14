@@ -1,7 +1,7 @@
 +++
 date = "2016-10-01T00:45:05+05:30"
-next = "/tags/anchor"
-prev = "/tags/footer"
+next = "/tags/datalist"
+prev = "/tags/code"
 title = "comment"
 toc = true
 weight = 5

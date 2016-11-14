@@ -1,7 +1,7 @@
 +++
 date = "2016-10-01T00:45:05+05:30"
-next = "/tags/comments"
-prev = "/tags/div"
+next = "/tags/dl"
+prev = "/tags/dialog"
 title = "div"
 toc = true
 weight = 5

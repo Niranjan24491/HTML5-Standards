@@ -1,7 +1,7 @@
 +++
 date = "2016-10-01T00:44:41+05:30"
-next = "/tags/article"
-prev = "/tags/section"
+next = "/tags/aside"
+prev = "/tags/area"
 title = "article"
 toc = true
 weight = 5
