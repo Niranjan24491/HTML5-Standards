@@ -4,7 +4,7 @@ next = "/tags/html"
 prev = "/tags/hgroup"
 title = "hr"
 toc = true
-weight = 5
+weight = 40
 
 +++
 

@@ -4,7 +4,7 @@ next = "/tags/dfn"
 prev = "/tags/del"
 title = "details"
 toc = true
-weight = 5
+weight = 22
 
 +++
 

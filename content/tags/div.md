@@ -4,7 +4,7 @@ next = "/tags/dl"
 prev = "/tags/dialog"
 title = "div"
 toc = true
-weight = 5
+weight = 25
 
 +++
 

@@ -4,7 +4,7 @@ next = "/tags/form"
 prev = "/tags/figure"
 title = "footer"
 toc = true
-weight = 5
+weight = 34
 
 +++
 

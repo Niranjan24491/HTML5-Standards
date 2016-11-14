@@ -4,7 +4,7 @@ next = "/tags/figure"
 prev = "/tags/fieldset"
 title = "figcaption"
 toc = true
-weight = 5
+weight = 32
 
 +++
 

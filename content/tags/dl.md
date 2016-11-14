@@ -4,7 +4,7 @@ next = "/tags/doctype"
 prev = "/tags/div"
 title = "dl"
 toc = true
-weight = 5
+weight = 26
 
 +++
 
