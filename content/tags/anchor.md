@@ -8,11 +8,10 @@ weight = 3
 
 +++
 
-The HTML <a> tag is used for creating a hyperlink to another web page.
-You can use the target attribute to specify whether to open the web page in a new browser window or not.
-You can also use this tag to link an image.
+The HTML <span class='tag-span'>&lt;a&gt;</span> tag is used for creating a hyperlink to another web page. You can use the target attribute to specify whether to open the web page in a new browser window or not.
 
 <h3>Need for this tag</h3>
+This tag is used to create hyperlink or to link an image.
 
 <h3>Disadvantages of this tag</h3>
 
