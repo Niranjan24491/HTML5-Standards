@@ -8,7 +8,7 @@ weight = 5
 
 +++
 
-The HTML Datalist Element (<datalist>) contains a set of <option> elements that represent the values available for other controls.
+The HTML Datalist Element <span class='tag-span'>&lt;datalist&gt;</span> contains a set of <span class='tag-span'>&lt;option&gt;</span> elements that represent the values available for other controls.
 
 <h3>Need for this tag</h3>
 
@@ -28,6 +28,17 @@ The HTML Datalist Element (<datalist>) contains a set of <option> elements that 
       <option value="Safari">
       <option value="Microsoft Edge">
     </datalist>
+
+<label>Choose a browser from this list:
+<input list="browsers" name="myBrowser" /></label>
+<datalist id="browsers">
+  <option value="Chrome">
+  <option value="Firefox">
+  <option value="Internet Explorer">
+  <option value="Opera">
+  <option value="Safari">
+  <option value="Microsoft Edge">
+</datalist>
 
 <h3>References</h3>
 
