@@ -1,7 +1,7 @@
 +++
 date = "2016-10-01T00:45:05+05:30"
-next = "/tags/headings"
-prev = "/tags/hr"
+next = "/tags/hr"
+prev = "/tags/headings"
 title = "hgroup"
 toc = true
 weight = 5

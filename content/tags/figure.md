@@ -1,7 +1,7 @@
 +++
 date = "2016-10-01T00:45:05+05:30"
-next = "/tags/comments"
-prev = "/tags/figure"
+next = "/tags/footer"
+prev = "/tags/figcaption"
 title = "figure"
 toc = true
 weight = 5

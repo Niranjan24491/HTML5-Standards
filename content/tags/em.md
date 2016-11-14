@@ -1,7 +1,7 @@
 +++
 date = "2016-10-01T00:45:05+05:30"
-next = "/tags/comments"
-prev = "/tags/em"
+next = "/tags/embed"
+prev = "/tags/dt"
 title = "em"
 toc = true
 weight = 5
