@@ -4,7 +4,7 @@ next = "/tags/thead"
 prev = "/tags/tfoot"
 title = "th"
 toc = true
-weight = 5
+weight = 108
 
 +++
 

@@ -4,7 +4,7 @@ next = "/tags/th"
 prev = "/tags/textarea"
 title = "tfoot"
 toc = true
-weight = 5
+weight = 107
 
 +++
 

@@ -4,7 +4,7 @@ next = "/tags/tbody"
 prev = "/tags/sup"
 title = "table"
 toc = true
-weight = 5
+weight = 102
 
 +++
 
