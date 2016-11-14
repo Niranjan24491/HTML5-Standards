@@ -4,7 +4,7 @@ next = "/tags/section"
 prev = "/tags/ruby"
 title = "s"
 toc = true
-weight = 5
+weight = 83
 
 +++
 

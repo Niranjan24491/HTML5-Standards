@@ -4,7 +4,7 @@ next = "/tags/s"
 prev = "/tags/progress"
 title = "ruby"
 toc = true
-weight = 5
+weight = 82
 
 +++
 

@@ -4,7 +4,7 @@ next = "/tags/strong"
 prev = "/tags/source"
 title = "span"
 toc = true
-weight = 5
+weight = 87
 
 +++
 
