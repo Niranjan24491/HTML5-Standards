@@ -4,7 +4,7 @@ next = "/tags/cite"
 prev = "/tags/canvas"
 title = "caption"
 toc = true
-weight = 5
+weight = 15
 
 +++
 

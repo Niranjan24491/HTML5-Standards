@@ -4,7 +4,7 @@ next = "/tags/body"
 prev = "/tags/bdo"
 title = "blockquote"
 toc = true
-weight = 5
+weight = 11
 
 +++
 

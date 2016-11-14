@@ -4,7 +4,7 @@ next = "/tags/bdo"
 prev = "/tags/base"
 title = "bdi"
 toc = true
-weight = 5
+weight = 9
 
 +++
 

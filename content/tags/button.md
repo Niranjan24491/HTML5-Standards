@@ -4,7 +4,7 @@ next = "/tags/canvas"
 prev = "/tags/body"
 title = "button"
 toc = true
-weight = 5
+weight = 13
 
 +++
 

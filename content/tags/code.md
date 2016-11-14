@@ -4,7 +4,7 @@ next = "/tags/comments"
 prev = "/tags/cite"
 title = "code"
 toc = true
-weight = 5
+weight = 17
 
 +++
 
