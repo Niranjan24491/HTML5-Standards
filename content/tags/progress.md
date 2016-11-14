@@ -1,8 +1,16 @@
 +++
+date = "2016-10-01T00:45:05+05:30"
+next = "/tags/ruby"
+prev = "/tags/pre"
+title = "progress"
+toc = true
+weight = 5
+
++++
 
 When building web sites and web applications, we often need to provide essential feedback to a user informing them of the progress of their request or task, be it uploading a file, playing a video, or importing data.
 
-HTML5 makes life easier for us by defining an element whose sole purpose is just that: the <b>progress</b> element. 
+HTML5 makes life easier for us by defining an element whose sole purpose is just that: the <b>progress</b> element.
 
 Progress element can have two attributes:
 <ol>
@@ -14,7 +22,7 @@ Progress element can have two attributes:
     <progress value="60" max="100"></progress>
 
 <h3>Need for this tag</h3>
-The <b>progress</b> element may seem very similar to the <b>meter</b> element — which was also introduced in HTML5 — but it can be seen as a more specific kind of <b>meter</b> element that’s only used to measure progress of a task. It’s worth bearing this in mind when deciding which one to use.   
+The <b>progress</b> element may seem very similar to the <b>meter</b> element ï¿½ which was also introduced in HTML5 ï¿½ but it can be seen as a more specific kind of <b>meter</b> element thatï¿½s only used to measure progress of a task. Itï¿½s worth bearing this in mind when deciding which one to use.   
 
 <h3>Disadvantage of this tag</h3>
 <ol>

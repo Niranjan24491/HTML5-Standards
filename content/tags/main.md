@@ -1,7 +1,7 @@
 +++
 date = "2016-10-03T00:45:05+05:30"
-next = "/tags/kbd"
-prev = "/tags/mark"
+next = "/tags/mark"
+prev = "/tags/kbd"
 title = "main"
 toc = true
 weight = 5

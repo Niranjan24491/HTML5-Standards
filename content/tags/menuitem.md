@@ -1,4 +1,12 @@
 +++
+date = "2016-10-01T00:45:05+05:30"
+next = "/tags/meta"
+prev = "/tags/menu"
+title = "menuitem"
+toc = true
+weight = 5
+
++++
 
 MENU along with the Menuitem element will incorporate the new menu items as part of the native contextual menu. In the example below, we will add to our <body> a new context menu item named "Sample Item 1".
 
@@ -9,11 +17,11 @@ MENU along with the Menuitem element will incorporate the new menu items as part
 	    <menuitem>Sample Item 1</menuitem>
 	</menu>
 	</body>
-    
+
 When we view this example in the browser (at the moment, only in Firefox) you should see that the menuitem we declared is added at the very top of the list.
 
 <h3>Adding Sub-menu and Icon</h3>
-We can create sub-menus using Menuitem and also a new attribute called icon has been introduced making it possible to add an icon along side the menu. It’s worth noting that this attribute is only applicable within the <menuitem> element.
+We can create sub-menus using Menuitem and also a new attribute called icon has been introduced making it possible to add an icon along side the menu. Itï¿½s worth noting that this attribute is only applicable within the <menuitem> element.
 
 <h3>Working Example</h3>
 

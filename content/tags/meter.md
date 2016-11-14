@@ -1,4 +1,12 @@
 +++
+date = "2016-10-01T00:45:09+05:30"
+next = "/tags/nav"
+prev = "/tags/meta"
+title = "meter"
+toc = true
+weight = 5
+
++++
 
 The Meter element represents a scalar measurement within a known range, or a fractional value; for example disk usage, the relevance of a query result, or the fraction of a voting population to have selected a particular candidate. This is also known as a gauge.
 
