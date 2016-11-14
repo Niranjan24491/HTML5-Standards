@@ -8,10 +8,10 @@ weight = 12
 
 +++
 
-The HTML <body> Element represents the content of an HTML document. There can be only one <body> element in a document.
+The HTML <span class='tag-span'>&lt;body&gt;</span> Element represents the content of an HTML document. There can be only one <span class='tag-span'>&lt;body&gt;</span> element in a document.
 
 <h3>Need for this tag</h3>
-The start tag may be omitted if the first thing inside it is not a space character, comment, <script> element or <style> element. The end tag may be omitted if the body element has contents or has a start tag, and is not immediately followed by a comment.
+The start tag may be omitted if the first thing inside it is not a space character, comment, <span class='tag-span'>&lt;script&gt;</span> element or <span class='tag-span'>&lt;style&gt;</span> element. The end tag may be omitted if the body element has contents or has a start tag, and is not immediately followed by a comment.
 
 <h3>Working Example</h3>
 
