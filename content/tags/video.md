@@ -13,6 +13,7 @@ The HTML <span class='tag-span'>&lt;video&gt;</span> element is used to embed vi
 <h3>Need for this tag</h3>
 
 With modern website becoming more interactive, video and audio support were needed for HTML document. <span class='tag-span'>&lt;video&gt;</span> element was introduced in HTML5 to do the job.
+
 {{% notice tip %}}
   Any content between the opening and closing <span class='tag-span'>&lt;video&gt;</span> tags is fallback content. This content is displayed only by browsers that don't support the <span class='tag-span'>&lt;video&gt;</span> tag.
 {{% /notice %}}
@@ -33,13 +34,13 @@ With modern website becoming more interactive, video and audio support were need
 <h3>Working Example</h3>
 
 <video width="500" height="300" controls>
-  <source src="/data/dummyvideo.mp4" type="video/mp4">
+  <source src="/data/dummy_video.mp4" type="video/mp4">
   This browser doesn't support video tag.
 </video>
 
     <video width="500" height="300" controls>
-    <source src="/data/dummyvideo.mp4" type="video/mp4">
-    This browser doesn't support video tag.
+      <source src="/data/dummy_video.mp4" type="video/mp4">
+      This browser doesn't support video tag.
     </video>
 
 <h3>References</h3>
