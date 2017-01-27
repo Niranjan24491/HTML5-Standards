@@ -1,4 +1,4 @@
-baseurl = "https://html5-standards.herokuapp.com/"
+baseurl = "https://html5-standards-doc.herokuapp.com/"
 languageCode = "en-us"
 title = "HTML5 Standards"
 theme = "hugo-theme-learn"
