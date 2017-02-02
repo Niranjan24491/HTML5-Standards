@@ -62,4 +62,4 @@ http://w3c.github.io/html/sections.html#elementdef-article
 http://html5doctor.com/the-article-element/
 
 <h3>Point of Contact</h3>
-<p>Niranjan ththsjdfhdsjhd</p>
+<p>Niranjan Thrineshwar</p>
