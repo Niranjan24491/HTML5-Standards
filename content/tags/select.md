@@ -8,17 +8,14 @@ weight = 85
 
 +++
 
-<h3>Standard Definition</h3>
-  The HTML <select> element represents a control that provides a menu of options.
+The HTML <span class='tag-span'>&lt;select&gt;</span> element represents a control that provides a menu of options.
 
 <h3>Need for this tag</h3>
-This element is used in conjunction with the <option> element to produce a list of options that the user can choose from.
-
-Also see <optgroup> element for grouping your option items.
+This element is used in conjunction with the <span class='tag-span'>&lt;option&gt;</span> element to produce a list of options that the user can choose from.
 
 <h3>Global attributes</h3>
 
-autofocus HTML5
+autofocus
   This attribute lets you specify that a form control should have input focus when the page loads, unless the user overrides it, for example by typing in a different control. Only one form element in a document can have the autofocus attribute, which is a Boolean.
 
 disabled
@@ -49,9 +46,15 @@ size
       <option value="value3">Value 3</option>
       </select>
 
+Select any value from below.
+<select name="select">
+<option value="value1">Value 1</option>
+<option value="value2" selected>Value 2</option>
+<option value="value3">Value 3</option>
+</select>
+
 <h3>References</h3>
-http://www.quackit.com/html_5/tags/html_select_tag.cfm
 
-https://developer.mozilla.org/en/docs/Web/HTML/Element/select
-
-<h3>Point of Contact</h3>
+[Quackit](http://www.quackit.com/html_5/tags/html_select_tag.cfm)
+<br>
+[MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/select)
