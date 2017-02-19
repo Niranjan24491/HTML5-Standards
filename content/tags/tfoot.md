@@ -110,6 +110,3 @@ The <span class='tag-span'>&lt;tfoot&gt;</span> tag is used to group the footer 
 [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot)
 <br>
 [HTMLHELP](http://htmlhelp.com/reference/html40/tables/tfoot.html)
-
-<h3>Point of Contact</h3>
-Abhishek Jha

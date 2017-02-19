@@ -20,40 +20,6 @@ Table cells may contain two types of information: header information and data. T
 
 <h3>Working Example</h3>
 
-<table>
-  <thead>
-    <tr>
-      <th>Month</th>
-      <th>Expense</th>
-      <th>Savings</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Sum</td>
-      <td>Rs.18000</td>
-      <td>Rs.8000</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>January</td>
-      <td>Rs.6000</td>
-      <td>Rs.2000</td>
-    </tr>
-    <tr>
-      <td>February</td>
-      <td>Rs.5000</td>
-      <td>Rs.3000</td>
-    </tr>
-    <tr>
-      <td>March</td>
-      <td>Rs.5000</td>
-      <td>Rs.3000</td>
-    </tr>
-  </tbody>
-</table>
-
     <table>
       <thead>
         <tr>
@@ -88,10 +54,42 @@ Table cells may contain two types of information: header information and data. T
       </tbody>
     </table>
 
+<table>
+  <thead>
+    <tr>
+      <th>Month</th>
+      <th>Expense</th>
+      <th>Savings</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>Sum</td>
+      <td>Rs.18000</td>
+      <td>Rs.8000</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>January</td>
+      <td>Rs.6000</td>
+      <td>Rs.2000</td>
+    </tr>
+    <tr>
+      <td>February</td>
+      <td>Rs.5000</td>
+      <td>Rs.3000</td>
+    </tr>
+    <tr>
+      <td>March</td>
+      <td>Rs.5000</td>
+      <td>Rs.3000</td>
+    </tr>
+  </tbody>
+</table>
+
 <h3>References</h3>
 
 [MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/th)
 <br>
 [Quackit](http://www.quackit.com/html/tags/html_th_tag.cfm)
-
-<h3>Point of Contact</h3>

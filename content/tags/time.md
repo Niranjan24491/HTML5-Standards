@@ -33,9 +33,9 @@ It represents the date, time, or duration for whatever text you are representing
 
 <h3>Working Example</h3>
 
-<p>The concert is <time datetime="2009-02-18">next Wednesday</time>.</p>
-
     <p>The concert is <time datetime="2009-02-18">next Wednesday</time>.</p>
+
+<p>The concert is <time datetime="2009-02-18">next Wednesday</time>.</p>
 
 <h3>References</h3>
 
@@ -44,5 +44,3 @@ It represents the date, time, or duration for whatever text you are representing
 [W3](https://www.w3.org/TR/2011/WD-html-markup-20110405/time.html)
 <br>
 [CSS-Tricks](https://css-tricks.com/time-element/)
-
-<h3>Point of Contact</h3>
