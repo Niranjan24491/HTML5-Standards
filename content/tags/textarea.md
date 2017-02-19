@@ -9,11 +9,10 @@ weight = 106
 +++
 
 <h3>Standard Definition</h3>
-  The HTML <textarea> element represents a multi-line plain-text editing control.
+  The HTML <span class='tag-span'>&lt;textarea&gt;</span> element represents a multi-line plain-text editing control.
 
 <h3>Need for this tag</h3>
-  The textarea element represents a multiline plain text edit control for the element's raw value. The contents of the control represent the control's default value.
-  The raw value of a textarea control must be initially the empty string.
+  The <span class='tag-span'>&lt;textarea&gt;</span> element represents a multiline plain text edit control for the element's raw value. The contents of the control represent the control's default value. The raw value of a <span class='tag-span'>&lt;textarea&gt;</span> control must be initially the empty string.
 
 <h3>  Global attributes </h3>
   autocomplete - - Hint for form autofill feature
@@ -37,10 +36,11 @@ weight = 106
 <h3>Advantages of this tag</h3>
 
 <h3>Working Example</h3>
+
         <textarea placeholder="You can type into this textarea all day long if you'd like to, but without a submit button to click all of your hard work will just be wasted."></textarea>
 
-<h3>References</h3>
-https://www.w3.org/TR/html5/forms.html#the-textarea-element <br>
-http://html.com/tags/textarea/ <br>
+<textarea placeholder="You can type into this textarea all day long if you'd like to, but without a submit button to click all of your hard work will just be wasted."></textarea>
 
-<h3>Point of Contact</h3>
+<h3>References</h3>
+[W3](https://www.w3.org/TR/html5/forms.html#the-textarea-element) <br>
+[HTML](http://html.com/tags/textarea/)
