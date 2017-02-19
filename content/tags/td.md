@@ -18,10 +18,6 @@ weight = 104
     rowspan - Number of rows that the cell is to span
     headers - The header cells for this cell
 
-<h3>Disadvantages of this tag</h3>
-
-<h3>Advantages of this tag</h3>
-
 <h3>Working Example</h3>
 
         <!DOCTYPE html>

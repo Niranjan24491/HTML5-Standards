@@ -17,10 +17,6 @@ weight = 89
   <li>This element must not be used for styling purpose like the styling of the product name Latex. In that case CSS style should be used: the vertical-align property with the sub value will achieve the same effect.</li>
 </ul>
 
-<h3>Disadvantages of this tag</h3>
-
-<h3>Advantages of this tag</h3>
-
 <h3>Working Example</h3>
 
         <p>The chemical formula of water: H<sub>2</sub>O</p>
