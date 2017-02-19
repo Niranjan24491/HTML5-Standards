@@ -21,24 +21,22 @@ This element is a phrase tag, which indicates that a section of text has structu
 
 <h3>Advantages of this tag</h3>
 <ol>
-  <li>The HTML <var> tag is used to format text in a document.</li>
+  <li>The HTML <span class='tag-span'>&lt;var&gt;</span> tag is used to format text in a document.</li>
 </ol>
 
 
 <h3>Working Example</h3>
 
-<p> A simple equation:
-  <var>x</var> = <var>y</var> + 2
-</p>
-
     <p> A simple equation:
       <var>x</var> = <var>y</var> + 2
     </p>
+
+<p> A simple equation:
+  <var>x</var> = <var>y</var> + 2
+</p>
 
 <h3>References</h3>
 
 [MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/var)
 <br>
 [W3Schools](http://www.w3schools.com/tags/tag_var.asp)
-
-<h3>Point of Contact</h3>

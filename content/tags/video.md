@@ -33,20 +33,20 @@ With modern website becoming more interactive, video and audio support were need
 
 <h3>Working Example</h3>
 
+    <video width="500" height="300" controls>
+      <source src="/data/dummy_video.mp4" type="video/mp4">
+      This browser doesn't support video tag.
+    </video>
+
 <video width="500" height="300" controls>
   <source src="/data/dummy_video.mp4" type="video/mp4">
   This browser doesn't support video tag.
 </video>
 
-    <video width="500" height="300" controls>
-      <source src="/data/dummy_video.mp4" type="video/mp4">
-      This browser doesn't support video tag.
-    </video>
+
 
 <h3>References</h3>
 
 [MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/video)
 <br>
 [Quackit](http://www.quackit.com/html_5/tags/html_video_tag.cfm)
-
-<h3>Point of Contact</h3>
