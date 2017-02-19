@@ -1,6 +1,6 @@
 +++
 date = "2016-10-01T00:45:05+05:30"
-next = "/tags/s"
+next = "/tags/section"
 prev = "/tags/progress"
 title = "ruby"
 toc = true
