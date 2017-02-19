@@ -65,11 +65,6 @@ The shape attribute is an enumerated attribute. The following table lists the ke
 </p>
 
 <h3>References</h3>
-https://developer.mozilla.org/en/docs/Web/HTML/Element/area
+[MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/area)
 <br>
-https://www.w3.org/TR/html5/embedded-content-0.html#the-area-element
-
-<h3>Point of Contact</h3>
-Niranjan Thrineshwar <br>
-nthrineshwar@deloitte.com <br>
-9663770742
+[W3](https://www.w3.org/TR/html5/embedded-content-0.html#the-area-element)
