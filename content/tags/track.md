@@ -48,6 +48,3 @@ The HTML5 <span class='tag-span'>&lt;track&gt;</span> tag is used to specify ext
 [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track)
 <br>
 [Quackit](http://www.quackit.com/html_5/tags/html_track_tag.cfm)
-
-
-<h3>Point of Contact</h3>

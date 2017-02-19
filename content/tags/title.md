@@ -42,5 +42,3 @@ Sometimes if Google doesn’t like your title tag it will rewrite it for its sea
 [W3](https://www.w3.org/Provider/Style/TITLE.html)
 <br>
 [MOZ](https://moz.com/learn/seo/title-tag)
-
-<h3>Point of Contact</h3>

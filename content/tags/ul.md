@@ -32,6 +32,12 @@ weight = 123
       <li>Third item</li>
     </ul>
 
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ul>
+
 <h3>Difference between <span class='tag-span'>&lt;ul&gt;</span> and <span class='tag-span'> &lt;ol&gt;</span></h3>
 
 <p> The <span class='tag-span'>&lt;ul&gt;</span> and <span class='tag-span'>&lt;ol&gt;</span> elements both represent a list of items. They differ in that, with the <span class='tag-span'> &lt;ol&gt;</span> element, the order is meaningful. As a rule of thumb to determine which one to use, try changing the order of the list items; if the meaning is changed, the <span class='tag-span'> &lt;ol&gt;</span> element should be used, otherwise you can use <span class='tag-span'>&lt;ul&gt;</span>.</p>
@@ -42,6 +48,3 @@ weight = 123
 [MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/ul)
 <br>
 [W3C](https://www.w3.org/TR/html-markup/ul.html)
-
-<h3>Point of Contact</h3>
-Abhishek Jha
