@@ -8,7 +8,6 @@ weight = 22
 
 +++
 
-
 The HTML <span class='tag-span'>&lt;details&gt;</span> element tag is used along with <span class='tag-span'>&lt;summary&gt;</span> to create an accordion-like widget. It is used as a wrapper for all the content we want to show and hide.
 
 <h3>Need for this tag</h3>
@@ -33,7 +32,7 @@ The HTML <span class='tag-span'>&lt;details&gt;</span> element tag is used along
 
 </ul>
 
-{{% notice note %}}
+{{% notice tip %}}
   People often use accordions for FAQs anyway, so they’re a great candidate for <span class='tag-span'>&lt;details&gt;</span>/<span class='tag-span'>&lt;summary&gt;</span>.
 {{% /notice %}}
 
@@ -49,11 +48,11 @@ The HTML <span class='tag-span'>&lt;details&gt;</span> element tag is used along
   <summary>Accordion Summary</summary>
   <p>Here is the data residing under accordion... </p>
 </details>
+
+<p>Click on accordion summary text</p>
+
 <h3>References</h3>
 
 [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
 <br>
 [HTML5Doctor](http://html5doctor.com/the-details-and-summary-elements/)
-
-<h3>Point of Contact</h3>
-Abhishek Jha
