@@ -48,11 +48,11 @@ The HTML <span class='tag-span'>&lt;summary&gt;</span> element tag is used along
   <summary>Accordion Summary</summary>
   <p>Here is the data residing under accordion... </p>
 </details>
+
+<p>Click on accordion summary text</p>
+
 <h3>References</h3>
 
 [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/summary)
 <br>
 [HTML5Doctor](http://html5doctor.com/the-details-and-summary-elements/)
-
-<h3>Point of Contact</h3>
-Abhishek Jha
