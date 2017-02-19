@@ -12,7 +12,7 @@ The HTML Table Element <span class='tag-span'>&lt;table&gt;</span> represents ta
 
 <h3>Need for this tag</h3>
 
-<p>To formulate tabular layout.</p>
+<p>The HTML Table Element <span class='tag-span'>&lt;table&gt;</span> helps in formulating tabular layout.</p>
 
 {{% notice note %}}
   <span class='tag-span'>&lt;table&gt;</span> aren't really designed to be used as a way to position elements. For structuring your HTML layout, use floating elements instead of <span class='tag-span'>&lt;table&gt;</span>.<br>
@@ -42,21 +42,28 @@ The HTML Table Element <span class='tag-span'>&lt;table&gt;</span> represents ta
 
     <table>
       <tr>
-        <td>...</td>
-        <td>...</td>
+        <td>Data1</td>
+        <td>Data2</td>
       </tr>
       <tr>
-        <td>...</td>
-        <td>...</td>
+        <td>Data3</td>
+        <td>Data4</td>
       </tr>
     </table>
+
+<table>
+  <tr>
+    <td>Data1</td>
+    <td>Data2</td>
+  </tr>
+  <tr>
+    <td>Data3</td>
+    <td>Data4</td>
+  </tr>
+</table>
 
 <h3>References</h3>
 
 [MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/table)
 <br>
 [W3C](https://www.w3.org/TR/html5/tabular-data.html)
-
-
-<h3>Point of Contact</h3>
-Abhishek Jha

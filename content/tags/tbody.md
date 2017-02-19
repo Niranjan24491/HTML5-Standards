@@ -109,6 +109,3 @@ The <span class='tag-span'>&lt;tbody&gt;</span> tag is used to group the main bo
 [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody)
 <br>
 [HTMLHELP](http://htmlhelp.com/reference/html40/tables/tbody.html)
-
-<h3>Point of Contact</h3>
-Abhishek Jha

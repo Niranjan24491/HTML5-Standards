@@ -74,5 +74,3 @@ The HTML <span class='tag-span'>&lt;template&gt;</span> element provides a mecha
 [MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/template)
 <br>
 [HTML5Rock](https://www.html5rocks.com/en/tutorials/webcomponents/template/)
-
-<h3>Point of Contact</h3>
