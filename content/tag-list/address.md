@@ -40,33 +40,24 @@ The <span class='tag-span'>&lt;address&gt;</span> element cannot contain
 <h3>Working Example</h3>
 
     <address>
-        You can contact author at <a href="http://www.somedomain.com/contact">www.somedomain.com</a>.<br>
+        You can contact author at
+        <a href="http://www.somedomain.com/contact">www.somedomain.com</a>.<br>
         If you see any bugs, please <a href="mailto:webmaster@somedomain.com">contact webmaster</a>.<br>
         You may also want to visit us:<br>
-        Mozilla Foundation<br>
-        1981 Landings Drive<br>
-        Building K<br>
-        Mountain View, CA 94043-0801<br>
-        USA
+        ABC<br>
+        India
     </address>
 
 <address>
     You can contact author at <a href="http://www.somedomain.com/contact">www.somedomain.com</a>.<br>
     If you see any bugs, please <a href="mailto:webmaster@somedomain.com">contact webmaster</a>.<br>
     You may also want to visit us:<br>
-    Mozilla Foundation<br>
-    1981 Landings Drive<br>
-    Building K<br>
-    Mountain View, CA 94043-0801<br>
-    USA
+    ABC<br>
+    India
+
 </address>
 
 <h3>References</h3>
 [MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/address)
 <br>
 [Quackit](http://www.quackit.com/html_5/tags/html_address_tag.cfm)
-
-<h3>Point of Contact</h3>
-Niranjan Thrineshwar <br>
-nthrineshwar@deloitte.com <br>
-9663770742

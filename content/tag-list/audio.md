@@ -29,20 +29,17 @@ The most basic playback functionality can be made available using the controls a
 <h3>Working Example</h3>
 
     <!-- Simple audio playback -->
-    <audio src="http://developer.mozilla.org/@api/deki/files/2926/=AudioTest_(1).ogg" autoplay>
+    <audio src="http://developer.mozilla.org/@api/deki/files/2926/=AudioTest_(1).ogg" controls>
       Your browser does not support the <code>audio</code> element.
     </audio>
 
-    <!-- Audio playback with captions -->
-    <audio src="foo.ogg">
-      <track kind="captions" src="foo.en.vtt" srclang="en" label="English">
-      <track kind="captions" src="foo.sv.vtt" srclang="sv" label="Svenska">
-    </audio>
+
+<!-- Simple audio playback -->
+<audio src="http://developer.mozilla.org/@api/deki/files/2926/=AudioTest_(1).ogg" controls>
+  Your browser does not support the <code>audio</code> element.
+</audio>
+
+
 
 <h3>References</h3>
 [MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/audio)
-
-<h3>Point of Contact</h3>
-Niranjan Thrineshwar <br>
-nthrineshwar@deloitte.com <br>
-9663770742
