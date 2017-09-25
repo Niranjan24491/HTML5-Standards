@@ -1,5 +1,21 @@
 /* Insert here special css for hugo theme, on top of any other imported css */
 
+.logo-header{
+  color:white;
+  margin: 0;
+  font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+}
+
+.tag-span{
+  background-color: beige;
+  font-family: monospace;
+}
+
+.text_emphasis {
+  font-weight: bold;
+  color: #ff6600;
+}
+
 
 /* Table of contents */
 

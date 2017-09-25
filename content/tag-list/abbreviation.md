@@ -1,7 +1,7 @@
 +++
 date = "2016-10-01T00:45:05+05:30"
-next = "/tags/address"
-prev = "/tags/abbreviation"
+next = "/tag-list/address"
+prev = "/tag-list/abbreviation"
 title = "abbreviation"
 toc = true
 weight = 1
