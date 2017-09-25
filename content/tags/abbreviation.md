@@ -33,8 +33,3 @@ https://www.w3.org/TR/html5/text-level-semantics.html#the-abbr-element
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr
 <br>
 http://www.quackit.com/html_5/tags/html_abbr_tag.cfm
-
-<h3>Point of Contact</h3>
-Niranjan Thrineshwar <br>
-nthrineshwar@deloitte.com <br>
-9663770742
