@@ -28,8 +28,8 @@ The HTML <span class='tag-span'>&lt;abbr&gt;</span> element is used for indicati
 <p>The <abbr title="Web Hypertext Application Technology Working Group">WHATWG</abbr> started working on HTML5 in 2004.</p>
 
 <h3>References</h3>
-https://www.w3.org/TR/html5/text-level-semantics.html#the-abbr-element
+[W3](https://www.w3.org/TR/html5/text-level-semantics.html#the-abbr-element)
 <br>
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr
+[MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr)
 <br>
-http://www.quackit.com/html_5/tags/html_abbr_tag.cfm
+[Quackit](http://www.quackit.com/html_5/tags/html_abbr_tag.cfm)
