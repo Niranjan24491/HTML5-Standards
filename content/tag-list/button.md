@@ -8,33 +8,27 @@ weight = 13
 
 +++
 
-The HTML <button> Element represents a clickable button.
+The HTML <span class='tag-span'>&lt;button&gt;</span> element represents a clickable button.
 
-<h3>Attributes</h3>
+<h3>Need for this tag</h3>
 
-    autofocus - Automatically focus the form control when the page is loaded
-    disabled - Whether the form control is disabled
-    form - Associates the control with a form element
-    formaction - URL to use for form submission
-    formenctype - Form data set encoding type to use for form submission
-    formmethod - HTTP method to use for form submission
-    formnovalidate - Bypass form control validation for form submission
-    formtarget - Browsing context for form submission
-    menu - Specifies the element's designated pop-up menu
-    name - Name of form control to use for form submission and in the form.elements API
-    type - Type of button
-    value - Value to be used for form submission
+Any type of content such as text or image can be put inside  a <span class='tag-span'>&lt;button&gt;</span> element. This is not possible with the buttons created with the <span class='tag-span'>&lt;input&gt;</span> element.
+
+<h3>Disadvantages of this tag</h3>
+
+If using the <span class='tag-span'>&lt;button&gt;</span> element in an HTML form, different browsers may submit different values. To overcome this issue, use <span class='tag-span'>&lt;input&gt;</span> tag to create buttons in an HTML form.
+
+<h3>Advantages of this tag</h3>
+
+Buttons can be embedded with images.
 
 <h3>Working Example</h3>
 
-    <button name="button">Click me</button>
+    <button name="button" >Click me</button>
+
+<button name="button">Click me</button>
 
 <h3>References</h3>
 https://developer.mozilla.org/en/docs/Web/HTML/Element/button
 <br>
 https://www.w3.org/TR/html5/forms.html#the-button-element
-
-<h3>Point of Contact</h3>
-Niranjan Thrineshwar <br>
-nthrineshwar@deloitte.com <br>
-9663770742

@@ -13,14 +13,10 @@ The HTML <span class='tag-span'>&lt;blockquote&gt;</span> Element (or HTML Block
 <h3>Attributes</h3>
 This element includes the global attributes "cite" to mention URL that designates a source document or message for the information quoted. This attribute is intended to point to information explaining the context or the reference for the quote.
 
-  <h3>Notes</h3>
-  To change <blockquote> indent, use CSS margin property.
-
-  For short quotes use <q> element.
-
-  <h3>See also</h3>
-  The <q>  element for inline quotations.
-  The <cite> element for source citations.
+{{% notice tip %}}
+  To change <span class='tag-span'>&lt;blockquote&gt;</span> indent, use CSS margin property. <br/>
+  For short quotes use <span class='tag-span'>&lt;q&gt;</span> element.
+{{% /notice %}}
 
 <h3>Working Example</h3>
 
@@ -34,8 +30,3 @@ This element includes the global attributes "cite" to mention URL that designate
 
 <h3>References</h3>
 [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote)
-
-<h3>Point of Contact</h3>
-Niranjan Thrineshwar <br>
-nthrineshwar@deloitte.com <br>
-9663770742

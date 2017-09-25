@@ -27,28 +27,20 @@ The <span class='tag-span'>&lt;bdi&gt;</span> element is useful when embedding t
 
     <p>And the top five contributors are:</p>
     <ol>
-      <li>User <bdi>homerjay</bdi>: 1601 posts</li>
-      <li>User <bdi>msimpson</bdi>: 335 posts</li>
       <li>User <bdi>إيان</bdi>: 195 posts</li>
-      <li>User <bdi>barts</bdi>: 6 posts</li>
-      <li>User <bdi>moe</bdi>: 2 posts</li>
     </ol>
 
 <p>And the top five contributors are:</p>
 <ol>
-  <li>User <bdi>homerjay</bdi>: 1601 posts</li>
-  <li>User <bdi>msimpson</bdi>: 335 posts</li>
   <li>User <bdi>إيان</bdi>: 195 posts</li>
-  <li>User <bdi>barts</bdi>: 6 posts</li>
-  <li>User <bdi>moe</bdi>: 2 posts</li>
 </ol>
+
+{{% notice tip %}}
+  In the example above, usernames are shown along with the number of points in a contest. If the <span class='tag-span'>&lt;bdi&gt;</span> element is not supported in the browser, the username of the Arabic user would confuse the text (the bidirectional algorithm would put the colon and the number "195" next to the word "User" rather than next to the word "points").
+{{% /notice %}}
+
 
 <h3>References</h3>
 [MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/bdi)
 <br>
 [Quackit](http://www.quackit.com/html_5/tags/html_bdi_tag.cfm)
-
-<h3>Point of Contact</h3>
-Niranjan Thrineshwar <br>
-nthrineshwar@deloitte.com <br>
-9663770742

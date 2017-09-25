@@ -25,24 +25,16 @@ This element includes the global attributes "dir" which defines the text directi
 
 <h3>Working Example</h3>
 
-    <!DOCTYPE html>
-    <html>
-    <head>
-    <title>HTML bdo Tag</title>
-    </head>
-    <body>
-      <bdo dir="rtl">Here's some English embedded in text in another language requiring a right-to-left presentation.</bdo>
-    </body>
-    </html>
+    <bdo dir="rtl">Some English text in another language requiring a right-to-left presentation.</bdo>
 
-<bdo dir="rtl">Here's some English embedded in text in another language requiring a right-to-left presentation.</bdo>
+
+<bdo dir="rtl">Some English text in another language requiring a right-to-left presentation.</bdo>
+
+{{% notice tip %}}
+  The paragraph in example is going right-to-left.
+{{% /notice %}}
 
 <h3>References</h3>
 [MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/bdo)
 <br>
 [TutorialPoint](https://www.tutorialspoint.com/html/html_bdo_tag.htm)
-
-<h3>Point of Contact</h3>
-Niranjan Thrineshwar <br>
-nthrineshwar@deloitte.com <br>
-9663770742

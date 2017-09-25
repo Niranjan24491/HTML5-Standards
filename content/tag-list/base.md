@@ -27,11 +27,11 @@ The HTML <span class='tag-span'>&lt;base&gt;</span> element specifies the base U
     <!DOCTYPE html>
     <html>
         <head>
-            <title>This is an example for the &lt;base&gt; element</title>
-            <base href="http://www.example.com/news/index.html">
+            <title>This is an example for the <base> element</title>
+            <base href="https://html-standards.herokuapp.com/">
         </head>
         <body>
-            <p>Visit the <a href="archives.html">archives</a>.</p>
+            <p>Visit the <a href="tag-list/base/">base tag section</a>.</p>
         </body>
     </html>
 
@@ -39,8 +39,3 @@ The HTML <span class='tag-span'>&lt;base&gt;</span> element specifies the base U
 [MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/base)
 <br>
 [W3](https://www.w3.org/TR/html5/document-metadata#the-base-element)
-
-<h3>Point of Contact</h3>
-Niranjan Thrineshwar <br>
-nthrineshwar@deloitte.com <br>
-9663770742

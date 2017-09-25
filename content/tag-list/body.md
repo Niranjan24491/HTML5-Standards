@@ -34,11 +34,6 @@ The start tag may be omitted if the first thing inside it is not a space charact
     </html>
 
 <h3>References</h3>
-https://developer.mozilla.org/en/docs/Web/HTML/Element/body
+[MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/body)
 <br>
-https://www.w3.org/TR/html5/sections.html#the-body-element
-
-<h3>Point of Contact</h3>
-Niranjan Thrineshwar <br>
-nthrineshwar@deloitte.com <br>
-9663770742
+[W3C](https://www.w3.org/TR/html5/sections.html#the-body-element)
